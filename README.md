@@ -5,7 +5,7 @@ arena using vaulting, climbing, and jumping mechanics to find and eliminate 5
 hidden targets before time runs out.
 
 ## 🎮 Play It
-- [Download Build](#) (Windows .exe via Releases)
+- [Download Build](https://github.com/krishnaborseGamedev/CubeBallShooter/releases/download/v1.0.0/CubeBallShooter_Build.zip) (Windows .exe via Releases)
 - [Watch Gameplay](#) (YouTube link)
 
 ## ✨ Features
