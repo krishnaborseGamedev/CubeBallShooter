@@ -6,7 +6,7 @@ hidden targets before time runs out.
 
 ## 🎮 Play It
 - [Download Build](https://github.com/krishnaborseGamedev/CubeBallShooter/releases/download/v1.0.0/CubeBallShooter_Build.zip) (Windows .exe via Releases)
-- [Watch Gameplay](#) (YouTube link)
+- [Watch Gameplay](https://youtu.be/1VIyJboSUVU) (YouTube link)
 
 ## ✨ Features
 - Custom finite state machine driving all player behavior (Movement, Jumping,
